@@ -36,7 +36,7 @@
             // 
             // buttonExecutar
             // 
-            buttonExecutar.Location = new Point(310, 280);
+            buttonExecutar.Location = new Point(533, 237);
             buttonExecutar.Name = "buttonExecutar";
             buttonExecutar.Size = new Size(75, 23);
             buttonExecutar.TabIndex = 0;
@@ -48,14 +48,14 @@
             // 
             richTextBox.Location = new Point(12, 12);
             richTextBox.Name = "richTextBox";
-            richTextBox.Size = new Size(373, 213);
+            richTextBox.Size = new Size(596, 213);
             richTextBox.TabIndex = 1;
             richTextBox.Text = "";
             // 
             // labeltempo
             // 
             labeltempo.AutoSize = true;
-            labeltempo.Location = new Point(12, 280);
+            labeltempo.Location = new Point(12, 245);
             labeltempo.Name = "labeltempo";
             labeltempo.Size = new Size(43, 15);
             labeltempo.TabIndex = 2;
@@ -65,7 +65,7 @@
             // labelTempoFinal
             // 
             labelTempoFinal.AutoSize = true;
-            labelTempoFinal.Location = new Point(61, 280);
+            labelTempoFinal.Location = new Point(74, 245);
             labelTempoFinal.Name = "labelTempoFinal";
             labelTempoFinal.Size = new Size(0, 15);
             labelTempoFinal.TabIndex = 3;
@@ -74,7 +74,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(401, 321);
+            ClientSize = new Size(620, 275);
             Controls.Add(labelTempoFinal);
             Controls.Add(labeltempo);
             Controls.Add(richTextBox);
