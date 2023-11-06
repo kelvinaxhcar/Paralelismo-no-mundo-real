@@ -1,6 +1,6 @@
 ﻿namespace AppThread
 {
-    partial class AppThread
+    partial class AppComThread
     {
         /// <summary>
         ///  Required designer variable.

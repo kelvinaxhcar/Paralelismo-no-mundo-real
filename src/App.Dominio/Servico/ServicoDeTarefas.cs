@@ -30,11 +30,15 @@
                 },
                 new Tarefa()
                 {
-                    Nome = "Tarefa_4"
+                    Nome = "Tarefa_5"
                 },
                 new Tarefa()
                 {
-                    Nome = "Tarefa_5"
+                    Nome = "Tarefa_6"
+                },
+                new Tarefa()
+                {
+                    Nome = "Tarefa_7"
                 },
             };
         }
